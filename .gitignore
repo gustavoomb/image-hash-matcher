@@ -1,0 +1,5 @@
+./venv
+*.exe
+*.png
+*.gif
+*.jpg
