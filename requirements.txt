@@ -4,3 +4,4 @@ pytesseract>=0.3.10
 pyautogui>=0.9.54
 pynput>=1.7.6
 keyboard>=0.13.5
+unidecode>=1.4.0
